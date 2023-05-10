@@ -1,0 +1,28 @@
+* {
+    background-color:navy;
+    color: white;
+    overflow-x: hidden;
+}
+
+form {
+    padding: 16px;
+    text-align: center;
+    font-size: larger;
+    display: flex;
+    flex-direction: column;
+}
+
+form input {
+    background-color: white;
+    color: black;
+}
+
+.message-box {
+    width: auto;
+  height: 160px;
+  resize: none;
+}
+button {
+    background-color: white;
+    color: gray;
+}
